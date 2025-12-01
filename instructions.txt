@@ -1,0 +1,1 @@
+Must be run from the Hello page, not from the Home page.
