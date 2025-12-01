@@ -1,0 +1,1239 @@
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\PopParty.dll.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\csc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\csi.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\PopParty\PopParty\obj\Debug\PopParty.pdb
+D:\פרויקט JS\PopParty\PopParty\bin\PopParty.dll.config
+D:\פרויקט JS\PopParty\PopParty\bin\PopParty.dll
+D:\פרויקט JS\PopParty\PopParty\bin\PopParty.pdb
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\csc.exe
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\csc.exe.config
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\csc.rsp
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\csi.exe
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\csi.exe.config
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\csi.rsp
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Console.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\vbc.exe
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\vbc.exe.config
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\vbc.rsp
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+D:\פרויקט JS\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+D:\פרויקט JS\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\פרויקט JS\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\פרויקט JS\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+D:\פרויקט JS\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+D:\פרויקט JS\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+D:\פרויקט JS\PopParty\PopParty\obj\Debug\PopParty.dll
+D:\פרויקט JS\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\PopParty.dll.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\csc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\csi.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\מרבקי כו תמוז\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\PopParty.dll.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\csc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\csi.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\PopParty.dll.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\csc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\csi.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\‏‏תיקיה חדשה\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\PopParty.dll.config
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\PopParty.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\PopParty.pdb
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\csc.exe
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\csi.exe
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\Users\user\Downloads\0308\0308\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\PopParty.dll.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\csc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\csi.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\0308\0308\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\PopParty.dll.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\csc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\csi.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\6\PopParty\PopParty\obj\Debug\PopParty.pdb
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\PopParty.dll.config
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\PopParty.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\PopParty.pdb
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\csc.exe
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\csc.exe.config
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\csc.rsp
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\csi.exe
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\csi.exe.config
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\csi.rsp
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Console.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\vbc.exe
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\vbc.exe.config
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\vbc.rsp
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\obj\Debug\PopParty.dll
+H:\תכנות שנה א תשפד\אסתי מילר\פרויקט גאוה סקריפט\6\PopParty\PopParty\obj\Debug\PopParty.pdb
+D:\0608\6\PopParty\PopParty\bin\PopParty.dll.config
+D:\0608\6\PopParty\PopParty\bin\PopParty.dll
+D:\0608\6\PopParty\PopParty\bin\PopParty.pdb
+D:\0608\6\PopParty\PopParty\bin\roslyn\csc.exe
+D:\0608\6\PopParty\PopParty\bin\roslyn\csc.exe.config
+D:\0608\6\PopParty\PopParty\bin\roslyn\csc.rsp
+D:\0608\6\PopParty\PopParty\bin\roslyn\csi.exe
+D:\0608\6\PopParty\PopParty\bin\roslyn\csi.exe.config
+D:\0608\6\PopParty\PopParty\bin\roslyn\csi.rsp
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Console.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\0608\6\PopParty\PopParty\bin\roslyn\vbc.exe
+D:\0608\6\PopParty\PopParty\bin\roslyn\vbc.exe.config
+D:\0608\6\PopParty\PopParty\bin\roslyn\vbc.rsp
+D:\0608\6\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+D:\0608\6\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+D:\0608\6\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0608\6\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0608\6\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+D:\0608\6\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+D:\0608\6\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+D:\0608\6\PopParty\PopParty\obj\Debug\PopParty.dll
+D:\0608\6\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\PopParty.dll.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\csc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\csi.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\8_מרבקי0608\0608\6\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\PopParty.dll.config
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\PopParty.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\PopParty.pdb
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\csc.exe
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\csi.exe
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\Users\user\Downloads\0608ערב\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\PopParty.dll.config
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\PopParty.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\PopParty.pdb
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\csc.exe
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\csi.exe
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\Users\user\Downloads\0708 בוקר\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\PopParty.dll.config
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\PopParty.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\PopParty.pdb
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\csc.exe
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\csi.exe
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\Users\user\Downloads\‏‏0708 ערב - נסיון\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\PopParty.dll.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csi.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\10_0708ערבשלושמערכים\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\PopParty.dll.config
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\PopParty.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\PopParty.pdb
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csc.exe
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csi.exe
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\Users\user\Downloads\10_0708ערבשלושמערכים\10_0708ערבשלושמערכים\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\PopParty.dll.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\csc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\csi.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\110808לילה\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\PopParty.dll.config
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\PopParty.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\PopParty.pdb
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\csc.exe
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\csi.exe
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\Users\user\Downloads\0808לילה\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\PopParty.dll.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\PopParty.pdb
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\csc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\csi.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\קבצים שלי\שנה א\JavaScript\הפרויקט\התוכנית בעצמה\13_1108 בוקר\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\PopParty.dll.config
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\PopParty.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\PopParty.pdb
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\csc.exe
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\csi.exe
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\obj\Debug\PopParty.csproj.CopyComplete
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\Users\user\Downloads\1108לילה\PopParty\PopParty\obj\Debug\PopParty.pdb
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\PopParty.dll.config
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\PopParty.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\PopParty.pdb
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\csc.exe
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\csi.exe
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\obj\Debug\PopParty.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\obj\Debug\PopParty.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\obj\Debug\PopParty.csproj.Up2Date
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\obj\Debug\PopParty.dll
+C:\Users\user\Downloads\אסתי מילר ורבקי ולס\אסתי מילר ורבקי ולס\PopParty\PopParty\obj\Debug\PopParty.pdb

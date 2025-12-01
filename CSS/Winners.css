@@ -1,0 +1,73 @@
+﻿body {
+    font-family: 'Segoe UI';
+    background-color: #f0f8ff;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/background/winner.jpg');
+    background-size: cover;
+    direction: rtl;
+}
+
+
+#logo {
+    width: 30%;
+}
+
+#exitIcon {
+    width: 50px;
+    margin: 0px 0px 10px 20px;
+    animation: rotate 0.75s infinite ease-in-out;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(-3deg);
+    }
+
+    50% {
+        transform: rotate(3deg); 
+    }
+
+    100% {
+        transform: rotate(-3deg); 
+    }
+}
+
+h2 {
+    color: #da3466;
+    margin-top: 20px;
+}
+
+#divDivs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    opacity: 0.8;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+
+    .container > div {
+        box-shadow: 0 4px 8px rgba(218, 52, 102, 0.2);
+        margin: 5px;
+        width: 30%;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+

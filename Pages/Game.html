@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Pop-Party</title>
+    <script src="../JS/JSHome.js"></script>
+    <script src="../JS/JSglobal.js"></script>
+    <script src="../JS/JSClasses.js"></script>
+    <script src="../JS/showTimer.js"></script>
+    <script src="../JS/JSGame.js"></script>
+    <link href="../CSS/Game.css" rel="stylesheet" />
+
+</head>
+<body onload="init()" dir="rtl">
+    <div id="divGame">
+        <header id="controlPlay">
+            <img class="icons" src="../Images/Icon/again.png" onclick="newGame()" title="משחק חדש" />
+            <img class="icons" src="../Images/Icon/settings.png" onclick="stopGameGoPage('Home.html')" title="להגדרות המשחק" />
+            <img class="icons" src="../Images/Icon/medal.png" onclick="stopGameGoPage('Winners.html')" title="לאלופים"/>
+            <img class="icons" id="btnStart" onclick="ClickPlayBalloon()" src="../Images/Icon/start_play.png" title="להתחלת המשחק" />
+            <img class="icons" id="m1" src="../Images/Icon/volume-mute-regular-24.png" onclick="playMusic()" />
+            <span id="welcome"></span>
+
+            <span id="showTime">00:00</span>
+
+            <div id="divScore">
+                <span>ניקוד: </span>
+                <span id="showScore">0</span>
+            </div>
+        </header>
+        <div id="balloonArea"></div>
+    </div>
+
+
+</body>
+</html>

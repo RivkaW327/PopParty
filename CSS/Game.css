@@ -1,0 +1,104 @@
+﻿body {
+    overflow: hidden; /* מונע גלילה של הדף */
+    font-family: 'Segoe UI';
+}
+
+#balloonArea {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#divGame {
+    width: 100%;
+    background-size: cover;
+    height: 100vh;
+}
+
+.balloons {
+    animation-name: growBallon;
+    animation-duration: 3s;
+}
+
+@keyframes growBallon {
+    from {
+        width: 20px;
+    }
+}
+
+
+#controlPlay {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.5); /* צבע לבן עם שקיפות של 50% */
+    color: #a4006d;
+}
+
+
+.icons {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+#btnStart {
+    width: 55px;
+    height: 55px;
+    animation: zoom 0.75s infinite;
+}
+
+@keyframes zoom {
+    0% {
+        transform: scale(1); 
+    }
+
+    50% {
+        transform: scale(1.05); 
+    }
+
+    100% {
+        transform: scale(1); 
+    }
+}
+
+
+#m1 {
+    width: 25px;
+    height: 25px;
+}
+
+button {
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    height: 47px;
+    min-width: 97px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgba(218, 52, 102, 0.5);
+}
+
+#welcome {
+    font-size: 16pt;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+
+
+#gameOver {
+    animation-name: growGaneOver;
+    animation-duration: 2s;
+    width:700px;
+}
+
+@keyframes growGaneOver {
+    from {
+        width: 10px;
+    }
+
+    to {
+        width: 700px;
+    }
+}

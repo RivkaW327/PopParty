@@ -1,0 +1,181 @@
+﻿
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/background/רקע.jpg');
+    background-size: cover;
+    backdrop-filter: blur(5px);
+    font-family:'Segoe UI';
+}
+
+.topic{
+    font-size:14pt;
+    font-weight:500;
+    color:#a4006d;
+}
+
+.txtBold{
+    font-weight:600;
+}
+.txtSmall{
+    font-size:11pt;
+}
+
+
+#logo {
+    width: 50%;
+}
+
+#divDivs {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container {
+    max-width: 600px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(218, 52, 102, 0.8);
+    opacity: 0.8;
+    margin:10px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input[type="text"], input[type="number"], select {
+    padding: 10px;
+    margin: 5px 0 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/*עיצוב לרדיו של הדרגות*/
+#level-options {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px 0 20px;
+}
+
+.label_option {
+    margin: 0 10px;
+}
+/*עיצוב לדיו המכיל את התמונות של הרקעים*/
+#image-options {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+/*עיצוב לתמונות של הרקעים*/
+.back_img {
+    width: 80px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    border-radius: 10px;
+}
+/*עיצוב לרדיו של התמונות של הרקעים*/
+.radio_option {
+    display: none;
+}
+    /*עיצוב לתמונה של רקע שבחרו*/
+    .radio_option:checked + img {
+        border-color: #da3466;
+    }
+
+button {
+    background-color: #da3466;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family:'Segoe UI';
+}
+
+    button:hover {
+        background-color: #af264f;
+    }
+/*עיצוב לשורה של הוספת שחקן חדש*/
+#addNewPlayer {
+    cursor: pointer;
+    text-decoration: underline;
+}
+/*עיצוב לטקסט בוקס של הוספת השחקן*/
+#newPlayer {
+    display: none;
+
+}
+/*עיצוב למחלקה של הבדיקות תקינות*/
+.validation {
+    color: red;
+    display: none;
+}
+
+#toWin {
+    width: 70px;
+    margin: 10px 0px 0px 0px;
+    display: inline-block;
+    position: relative;
+    animation: wave 1s infinite;
+}
+
+
+@keyframes wave {
+    0% {
+        transform: rotate(0deg) translateX(0);
+    }
+
+    25% {
+        transform: rotate(10deg) translateX(10px);
+    }
+
+    37.5% {
+        transform: rotate(5deg) translateX(5px);
+    }
+
+    50% {
+        transform: rotate(0deg) translateX(0px);
+    }
+
+    75% {
+        transform: rotate(-10deg) translateX(-10px);
+    }
+
+    87.5% {
+        transform: rotate(-5deg) translateX(-5px);
+    }
+
+    100% {
+        transform: rotate(0deg) translateX(0);
+    }
+
+}
+
+#toGame {
+    width: 70px;
+    cursor: pointer;
+    animation: zoom 0.75s infinite;
+}
+@keyframes zoom {
+    0% {
+        transform: scale(1); 
+    }
+
+    50% {
+        transform: scale(1.05); 
+    }
+
+    100% {
+        transform: scale(1); 
+    }
+}

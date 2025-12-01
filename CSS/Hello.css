@@ -1,0 +1,26 @@
+﻿body {
+    background-image: url('../images/background/רקעpopparty.png');
+    background-size: cover;
+}
+
+img {
+    width: 10%;
+    position: absolute;
+    bottom: 10px;
+    right: 100px;
+    animation: moveLeftRight 1s ease-in-out infinite; 
+}
+
+@keyframes moveLeftRight {
+    0% {
+        transform: translateX(0);
+    }
+
+    50% {
+        transform: translateX(25px); 
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}

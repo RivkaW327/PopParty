@@ -1,0 +1,119 @@
+﻿
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="utf-8">
+    <title>Pop-Party</title>
+    <link href="../CSS/Home.css" rel="stylesheet" />
+    <script src="../JS/JSglobal.js"></script>
+    <script src="../JS/JSClasses.js"></script>
+    <script src="../JS/JSHome.js"></script>
+
+</head>
+<body onload="Init()">
+    <br />
+    <img id="logo" src="../Images/logo/PopParty.png" />
+    <div id="divDivs">
+        <div class="container">
+            <p>
+                <span class="topic">הוראות המשחק:</span>
+                <br />
+                <span class="txtBold">ברוכים הבאים למשחק פיצוץ בלונים!</span>
+                <br />
+                <span class="txtBold">המטרה</span>
+                שלכם היא לפוצץ כמה שיותר בלונים ולהשיג את מספר הנקודות הגבוה ביותר.
+                <br />
+                כדי
+                <span class="txtBold">להתחיל</span>
+                לשחק הכניסו את
+                <span class="txtBold">שמכם</span>
+                , לחצו על כפתור "
+                <span class="txtBold">התחל</span>
+                " והבלונים יתחילו להופיע על המסך.
+                <br />
+                כדי
+                <span class="txtBold">לפוצץ</span>
+                בלון, פשוט לחצו עליו. כל בלון שתפוצצו יוסיף לכם נקודות.
+                <br />
+                שימו
+                <img style="width:10px;" src="../Images/Icon/לב.png" />
+                <span class="txtSmall">: ככל שהבלון קטן יותר, מספר הנקודות יעלה.</span>
+                <br />
+                להנאתכם, קיימות
+                <span class="txtBold">3 רמות</span>
+                למשחק, ככל שהרמה גבוהה יותר, כך הקצב מהיר יותר.
+                <br />
+                רק אל תתמהמהו, המשחק
+                <span class="txtBold">מוגבל בזמן.</span>
+                <br />
+                לפני כל משחק תוכלו להגדיר את
+                <span class="txtBold">העדפותיכם.</span>
+                <br />
+                <span class="txtSmall">כדאי לשים </span>
+                <img style="width:10px;" src="../Images/Icon/לב.png" />
+                <span class="txtSmall">: באם תתחילו משחק חדש באמצע משחק קיים- נקודות המשחק שנעצר יחושבו לפי הזמן שהוקצב מראש!</span>
+                <br />
+                <span class="txtBold">ולניקוד:</span>
+                <br />
+                נקודות השחקנים מחושבות לפי
+                <span class="txtBold">ממוצע</span>
+                נקודות לשניה.
+                <br />
+                הנקודות שתצברו בכל משחק, יחושבו עם הנקודות
+                <span class="txtBold">שכבר צברתם</span>
+                במשחקים הקודמים.
+                <br />
+                וכמובן תוכלו לצפות ב
+                <span class="txtBold">רשימת ה'אלופים'</span>
+                שלנו
+                <br />
+                שאולי תהיו חלק מהם...
+                <br />
+                <span class="txtBold">
+                    אז למה אתם מחכים!?
+                    <br />
+                    3--2--1-----
+                    <span style="font-family: Bradley Hand ITC;font-size:16pt;font-weight:700;">pop</span>
+                </span>
+            </p>
+            <a href="Winners.html">
+                <img id="toWin" src="../Images/Icon/medal.png" title="לעמוד האלופים" />
+            </a>
+        </div>
+        <div class="container">
+            <label class="topic" for="existingPlayer">שם שחקן</label>
+            <select id="existingPlayer">
+                <option>בחר שחקן</option>
+            </select><br />
+            <label onclick="discoverTextBox()" id="addNewPlayer">להוספת שחקן לחץ כאן</label>
+            <input type="text" id="newPlayer" placeholder="הכנס שם שחקן חדש">
+            <span class="validation" id="validationPlayer"></span><br />
+
+            <label class="topic" for="balloonCount"> בחר מספר שניות למשחק (30-180)</label>
+            <input type="number" id="balloonCount" min="30" max="180" value="75" oninput="ChangeRange(this,'balloonRange')">
+            <br />
+            <input onchange="changeTime()" type="range" id="balloonRange" min="30" max="180" value="75" oninput="ChangeRange(this ,'balloonCount')">
+            <span class="validation" id="validationRangeTime"></span><br />
+
+            <label class="topic">רמת המשחק</label>
+            <div id="level-options">
+                <input type="radio" id="level1" name="levels" checked="checked" />
+                <label for="level1">מתחיל</label>&nbsp;&nbsp;&nbsp;
+                <input type="radio" id="level2" name="levels" />
+                <label for="level2">מתקדם</label>&nbsp;&nbsp;&nbsp;
+                <input type="radio" id="level3" name="levels" />
+                <label for="level3">אלוף</label>&nbsp;&nbsp;&nbsp;
+            </div>
+
+            <label class="topic">בחר תמונת רקע</label>
+            <div id="image-options">
+                <label>
+                    <input class="radio_option" type="radio" name="image" value="random" checked>
+                    <img src="../Images/background/אקראי5.jpg" class="back_img" />
+                </label>
+            </div>
+            <img id="toGame" src="../Images/Icon/video-game.png" onclick="startGame()" title="למשחק"/>
+        </div>
+    </div>
+</body>
+</html>
