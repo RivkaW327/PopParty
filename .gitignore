@@ -1,0 +1,32 @@
+# Visual Studio specific
+.vs/
+*.user
+*.userosscache
+*.suo
+*.cache
+*.log
+
+# Build output
+bin/
+obj/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# OS files
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
